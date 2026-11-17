@@ -1,0 +1,19 @@
+{
+  "id": "2345",
+  "name": "範本",
+  "kind": "annual",
+  "template": "sample",
+  "createdAt": "2026-11-17T02:34:47.803Z",
+  "gates": [
+    "proposal",
+    "mdr",
+    "pdr",
+    "cdr",
+    "trr",
+    "frr",
+    "anomaly",
+    "closeout"
+  ],
+  "manual": {},
+  "signoffs": []
+}
